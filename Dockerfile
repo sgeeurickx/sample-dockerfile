@@ -4,4 +4,4 @@
 
 # -- Stage 1 -- #
 # Compile the app.
-FROM quay.io/keycloak/keycloak-x
+FROM quay.io/keycloak/keycloak
